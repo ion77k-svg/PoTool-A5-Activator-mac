@@ -1,4 +1,4 @@
-# PoTool Activator A12
+# PoTool Activator A5/A6
 
 MacOS инструмент для активации A5/A6 iPhone и iPad, застрявших на экране приветствия (Hello Screen).
 
